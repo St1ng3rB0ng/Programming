@@ -35,7 +35,7 @@ public class Main {
         // Task 3
         List<Student> students = new ArrayList<>();
         students.add(new Student("Anna", "Smith", 2));
-        students.add(new Student("Bob", "Jones", 1));
+        students.add(new Student("Bruce", "Eckel", 1));
         students.add(new Student("Clara", "Smith", 2));
         students.sort((s1, s2) -> {
             int courseCompare = Integer.compare(s1.course(), s2.course());
@@ -44,7 +44,7 @@ public class Main {
         System.out.println(students);
 
         // Task 4
-        Book book = new Book("Java Basics", 29.99);
+        Book book = new Book("Thinking in Java", 29.99);
         System.out.println(book.calculateCost(2));
     }
 }
