@@ -1,4 +1,4 @@
-package lab_1;
+package lab_1.data;
 
 public class Square extends Rectangle {
     protected double sideLength;

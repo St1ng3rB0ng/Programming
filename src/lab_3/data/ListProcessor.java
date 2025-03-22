@@ -1,4 +1,4 @@
-package lab_3;
+package lab_3.data;
 
 import java.util.List;
 

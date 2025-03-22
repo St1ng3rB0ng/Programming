@@ -14,6 +14,8 @@ package lab_4;
 //        connectToNetwork(String network). Створіть клас Smartphone та реалізуйте інтерфейс
 //        Connectable для нього. Виведіть результат роботи методу connectToNetwork().
 
+import lab_4.data.*;
+
 public class Main {
     public static void main(String[] args) {
         // Task 1

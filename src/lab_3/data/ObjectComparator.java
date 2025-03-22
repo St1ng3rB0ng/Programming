@@ -1,4 +1,4 @@
-package lab_3;
+package lab_3.data;
 
 public class ObjectComparator {
     public boolean compareObjects(Integer a, Integer b) {

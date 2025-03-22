@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4.data;
 
 public interface Calculator {
     int add(int a, int b);

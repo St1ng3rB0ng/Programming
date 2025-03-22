@@ -1,4 +1,4 @@
-package lab_3;
+package lab_3.data;
 
 public class ObjectContainer {
     private Object[] objects = new Object[3];

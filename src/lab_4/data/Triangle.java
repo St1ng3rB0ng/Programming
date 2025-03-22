@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4.data;
 
 public class Triangle extends GeometricShape {
     private double a, b, c;

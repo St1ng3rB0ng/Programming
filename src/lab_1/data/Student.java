@@ -1,4 +1,4 @@
-package lab_1;
+package lab_1.data;
 
 public class Student extends Person {
     private String studentId;

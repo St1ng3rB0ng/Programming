@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4.data;
 
 public class Smartphone implements Connectable {
     public void connectToNetwork(String network) {

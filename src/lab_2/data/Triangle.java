@@ -1,4 +1,4 @@
-package lab_2;
+package lab_2.data;
 
 public class Triangle extends Shape {
     private double base;

@@ -1,4 +1,4 @@
-package lab_2;
+package lab_2.data;
 
 public class Shape {
     public double calculateArea() {

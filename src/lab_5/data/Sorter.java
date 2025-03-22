@@ -1,4 +1,4 @@
-package lab_5;
+package lab_5.data;
 
 import java.util.Arrays;
 

@@ -10,6 +10,11 @@ package lab_5;
 //          4. Створіть Record для представлення книги з полями для назви та ціни. Реалізуйте
 //        метод для обчислення вартості книги
 
+import lab_5.data.Book;
+import lab_5.data.Report;
+import lab_5.data.Sorter;
+import lab_5.data.Student;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;

@@ -13,6 +13,9 @@ package lab_2;
 //          Завдання 4: Розширте клас Employee, додавши метод, який збільшує заробітну
 //        плату працівника на певний відсоток. Виведіть оновлену інформацію про працівника.
 
+import lab_2.data.Employee;
+import lab_2.data.Triangle;
+
 public class Main {
     public static void main(String[] args) {
         // Task 1

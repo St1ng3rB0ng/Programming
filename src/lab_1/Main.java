@@ -11,6 +11,10 @@ package lab_1;
 //          Задача 4: Створіть підклас Square від класу Rectangle, який має захищене поле
 //        sideLength. Створіть екземпляр класу Square та виведіть інформацію про квадрат.
 
+import lab_1.data.Rectangle;
+import lab_1.data.Square;
+import lab_1.data.Student;
+
 public class Main {
     public static void main(String[] args) {
         // Task 1 & 2

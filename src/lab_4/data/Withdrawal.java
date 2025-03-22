@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4.data;
 
 public class Withdrawal extends BankTransaction {
     public Withdrawal(double initialBalance) {

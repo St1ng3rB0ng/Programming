@@ -1,4 +1,4 @@
-package lab_1;
+package lab_1.data;
 
 public class Rectangle {
     private double length;

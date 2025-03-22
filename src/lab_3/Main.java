@@ -14,6 +14,8 @@ package lab_3;
 //        compareObjects(), що порівнює два об'єкти. Перевантажте цей метод для різних типів
 //        об'єктів.
 
+import lab_3.data.*;
+
 import java.util.List;
 import java.util.ArrayList;
 

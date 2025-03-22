@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4.data;
 
 public class Deposit extends BankTransaction {
     public Deposit(double initialBalance) {

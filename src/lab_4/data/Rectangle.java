@@ -1,4 +1,4 @@
-package lab_4;
+package lab_4.data;
 
 public class Rectangle extends GeometricShape {
     private double length, width;
