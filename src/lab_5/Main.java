@@ -32,10 +32,16 @@ public class Main {
         // Task 2
         Report<String> textReport = new Report<>("Text Data");
         Report<Integer> numberReport = new Report<>(123);
+        Report<List<Integer>> listReport = new Report<>(Arrays.asList(1, 2, 3));
+        Report<Integer[]> arrayReport = new Report<>(new Integer[]{4, 5, 6});
         textReport.generateTextReport();
         textReport.generateHtmlReport();
         numberReport.generateTextReport();
         numberReport.generateHtmlReport();
+        listReport.generateTextReport();
+        listReport.generateHtmlReport();
+        arrayReport.generateTextReport();
+        arrayReport.generateHtmlReport();
 
         // Task 3
         List<Student> students = new ArrayList<>();
@@ -50,6 +56,6 @@ public class Main {
 
         // Task 4
         Book book = new Book("Thinking in Java", 29.99);
-        System.out.println(book.calculateCost(2));
+        System.out.println(book.calculateCost(2)+" $ ");
     }
 }
